@@ -1,6 +1,6 @@
 var CACHE_NAME = 'ToDo-V1.0';
 var urlsToCache = [
-'/',
+'.',
 'index.html',
 'Scripts/index.js',
 'Scripts/app.js',
