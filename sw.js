@@ -1,4 +1,4 @@
-var CACHE_NAME = 'ToDo-V1.3';
+var CACHE_NAME = 'ToDo-V1.4';
 var urlsToCache = [
 '.',
 'index.html',
