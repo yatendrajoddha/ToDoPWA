@@ -1,2 +1,2 @@
 # ToDoPWA
-This is to do application with Progressive web apps features
+This is To Do application with Progressive web apps features
